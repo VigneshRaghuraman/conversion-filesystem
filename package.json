@@ -1,0 +1,22 @@
+{
+  "name"        : "csvtojson",
+  "version"     : "1.0.0",
+  "description" : "conversion of csv to json and vice versa",
+  "main"        : "index.js",
+  "scripts"     : {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author"      : "vignesh",
+  "license"     : "ISC",
+  "dependencies": {
+    "boom"           : "^5.2.0",
+    "exceljs"        : "^0.5.1",
+    "html-pdf"       : "^2.1.0",
+    "joi"            : "^10.6.0",
+    "moment"         : "^2.18.1",
+    "shortid"        : "^2.2.8",
+    "stream"         : "0.0.2",
+    "underscore"     : "^1.8.3",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
